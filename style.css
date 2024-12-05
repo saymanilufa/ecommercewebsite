@@ -1,0 +1,7 @@
+.carousel-item{
+    height: 500px;
+}
+.category{
+    transform: translateY(-2px);
+    transition: transform .2s;
+}
