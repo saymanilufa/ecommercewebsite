@@ -5,3 +5,11 @@
     transform: translateY(-2px);
     transition: transform .2s;
 }
+.card img{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.margin100 {
+    margin-top: 100px;
+}
